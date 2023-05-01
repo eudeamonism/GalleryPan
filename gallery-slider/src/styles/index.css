@@ -1,0 +1,7 @@
+/*This is a global style. This will set the gallery's image maximum width*/
+#root {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}

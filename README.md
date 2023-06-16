@@ -2,6 +2,8 @@
 
 ### React, TypeScript, Vercel
 
+[Gallery Slider](https://gallery-pan.vercel.app/)
+
 I built and deployed a photo slider site with animation using TypeScript, React, and Sass. The site is responsive and can be viewed on any device.
 
 <ul>
